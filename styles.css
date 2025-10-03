@@ -217,3 +217,7 @@ body {
         button:hover {
             background-color: #7cd87c;
         }
+        img {
+          max-width: 100%;
+          height: auto;
+          display: block;}
